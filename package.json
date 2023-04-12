@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express-handlebars": "^7.0.5"
+  },
+  "name": "tech_blog_mvc",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sadjo456/Tech_Blog_mvc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sadjo456/Tech_Blog_mvc/issues"
+  },
+  "homepage": "https://github.com/Sadjo456/Tech_Blog_mvc#readme"
+}
